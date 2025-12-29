@@ -1,2 +1,2 @@
 # spendo
-Your friendly expense partner.
+Your friendly expense partner. spendo.onlinethai.com
